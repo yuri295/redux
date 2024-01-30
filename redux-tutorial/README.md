@@ -1,0 +1,6 @@
+- store
+  - holds the state of your application.
+- action
+  - describes the changes in the state of the application.
+- reducer
+  - actually carries out the state transition depending on the action.
